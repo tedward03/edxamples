@@ -7,6 +7,12 @@
   height: 40vmin;
 }
 
+.navbarbrandImage {
+  width:15%;
+  height: auto;
+  border-radius: 30%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
