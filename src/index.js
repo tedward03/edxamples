@@ -5,7 +5,6 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter } from 'react-router-dom';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import {Landing, Examples} from './App' // todo change this and where they are coming from
 
 ReactDOM.render(
     <BrowserRouter>

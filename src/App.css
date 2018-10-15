@@ -7,10 +7,14 @@
   height: 40vmin;
 }
 
-.navbarbrandImage {
-  width:15%;
-  height: auto;
-  border-radius: 30%;
+.homeBrand {
+  display:inline-block;
+  width:2.5%;
+}
+
+.homeBrandImage {
+  width: 100%;
+  border-radius: 15%;
 }
 
 .App-header {
@@ -22,6 +26,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Sidebar-List {
+  padding: 10px;
+  width: 20%;
+  background: #f0f0f0;
+  display: flex;
+  flex-direction: col;
 }
 
 .App-link {
